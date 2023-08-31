@@ -1,14 +1,13 @@
 .cardContainer {
     display: flex;
-    justify-content: center;
-    position: relative;
+    flex-direction: row;
+    justify-content: space-between;
     max-width: 1280px;
     height: 100vh;
-  }
-  
+    width: auto;
+  }  
+
   .card {
-    position: absolute;
-    top: 15%;
     width: 24vw;
     height: 70vh;
     border: 0.1px solid #ccc;
@@ -22,23 +21,21 @@
   
   .premium {
     z-index: 2;
-    left: calc(50% - 12vw);
     transform: scale(1);
     box-shadow:0 0 10px #0f0c29,
               inset 0 0 10px #0f0c29 ;
-  
+
   }
   
   .pro {
     z-index: 1;
-    left: calc(50% + 10vw);
     transform: scale(0.95);
     opacity: 0.7;
+
   }
   
   .basic {
     z-index: 0;
-    left: calc(50% - 34vw);
     transform: scale(0.9);
     opacity: 0.5;
   }

@@ -6,7 +6,7 @@ import { FaRegCircleXmark } from 'react-icons/fa6';
 
 export function Cards(props) {
   return (
-    <div>
+    <div className='cardContainer'>
       {props.cards.map((card, index) => (
         <div key={index} className={`card ${card.title.toLowerCase()}`}>
           <div className='header'>
