@@ -31,13 +31,10 @@ table td, table th {
   padding: 8px;
 }
 
-
-table tr:hover {opacity: 0.5;}
-
 table th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: centre;
-  background-color: #888;
+  background-color: #88888828;
   color: white;
 }

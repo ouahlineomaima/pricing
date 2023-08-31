@@ -14,8 +14,15 @@ function App() {
     title: 'Premium',
     price: '10,000 MAD',
     features: [
-      { text: 'Premium features', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
-      { text: 'Another premium feature', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'High fidelity Figma prototype', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Dark and light mode', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: '1 year free maintenance (for intern bugs)', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Basic Normal user features', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Basic Student account fetures', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Basic Professor account features', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Basic Admin account features', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Access to source code', icon: <IoMdCloseCircleOutline color='#d2d0d0' /> },
+      { text: 'Enable premium account for professors', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
       // ... add more features
     ],
   };
@@ -24,8 +31,14 @@ function App() {
     title: 'Pro',
     price: '8,000 MAD',
     features: [
-      { text: 'Pro features', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
-      { text: 'Another pro feature', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'High fidelity Figma prototype', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Dark and light mode', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: '6 months free maintenance (for intern bugs)', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Basic Normal user features', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Basic Student account fetures', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Basic Professor account features', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Basic Admin account features', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Enable premium account for professors', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
       // ... add more features
     ],
   };
@@ -34,8 +47,17 @@ function App() {
     title: 'Basic',
     price: '5,000 MAD',
     features: [
-      { text: 'Basic features', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
-      { text: 'Another basic feature', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'High fidelity Figma prototype', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: '3 months free maintenance (for intern bugs)', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Basic Normal user features', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Basic Student account fetures', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Basic Professor account features', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Basic Admin account features', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Responsive design', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Brand creation', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'FAQ section', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+      { text: 'Privacy policy', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
+
       // ... add more features
     ],
   };
