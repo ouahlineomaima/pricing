@@ -1,0 +1,138 @@
+[
+  {
+    "functionnality": "Sign in / Sign out",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 3,
+    "cost": 150
+  },
+  {
+    "functionnality": "Consult the dashboard (profile + invoices)",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 3,
+    "cost": 150
+  },
+  {
+    "functionnality": "Consult your account (general information, profile picture, pwd, notification etc.)",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 2,
+    "cost": 100
+  },
+  {
+    "functionnality": "Manage your account (modify general information)",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 1,
+    "cost": 50
+  },
+  {
+    "functionnality": "View your invoices",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 6,
+    "cost": 300
+  },
+  {
+    "functionnality": "Book a session",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 5,
+    "cost": 250
+  },
+  {
+    "functionnality": "Pay an invoice",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 4,
+    "cost": 200
+  },
+  {
+    "functionnality": "Consult the list of favorites",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 2,
+    "cost": 100
+  },
+  {
+    "functionnality": "Add a teacher/announcement to a favorites list",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 2,
+    "cost": 100
+  },
+  {
+    "functionnality": "Consult the dashboard (profile + invoices + chat)",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 4,
+    "cost": 200
+  },
+  {
+    "functionnality": "Consult the chat (student/teacher)",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 8,
+    "cost": 400
+  },
+  {
+    "functionnality": "Add a review to an ad",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 8,
+    "cost": 400
+  },
+  {
+    "functionnality": "Evaluate an ad",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 8,
+    "cost": 400
+  },
+  {
+    "functionnality": "Specify the Payment Method",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 4,
+    "cost": 200
+  },
+  {
+    "functionnality": "Associate your account with a teacher account",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 5,
+    "cost": 250
+  },
+  {
+    "functionnality": "Signal an ad",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 12,
+    "cost": 600
+  },
+  {
+    "functionnality": "Total (MAD)",
+    "basic": 1200 ,
+    "pro": 2800,
+    "premium": 3850,
+    "effort": 77,
+    "cost": 3850
+  }
+]

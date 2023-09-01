@@ -1,0 +1,50 @@
+[
+  {
+    "functionnality": "Search for a teacher by subject, location and teaching method",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 5,
+    "cost": 250
+  },
+  {
+    "functionnality": "View a course",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 3,
+    "cost": 150
+  },
+  {
+    "functionnality": "view the list of all teachers",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 3,
+    "cost": 150
+  },
+  {
+    "functionnality": "create an account",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 3,
+    "cost": 150
+  },
+  {
+    "functionnality": "Choose the search criteria (price, level)",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 5,
+    "cost": 250
+  },
+  {
+    "functionnality": "Total (MAD)",
+    "basic": 700,
+    "pro": 950,
+    "premium": 950,
+    "effort": 19,
+    "cost": 950
+  }
+]

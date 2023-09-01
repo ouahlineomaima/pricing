@@ -1,0 +1,50 @@
+[
+  {
+    "functionnality": "Consult the Dashboard (teacher activities, statistics, etc.)",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 12,
+    "cost": 600
+  },
+  {
+    "functionnality": "Check balance",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 6,
+    "cost": 300
+  },
+  {
+    "functionnality": "CRUD on ads",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 4,
+    "cost": 200
+  },
+  {
+    "functionnality": "Consult the signals",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 6,
+    "cost": 300
+  },
+  {
+    "functionnality": "Restrict a professor",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 5,
+    "cost": 250
+  },
+  {
+    "functionnality": "Total (MAD)",
+    "basic": 1100,
+    "pro": 1100,
+    "premium": 1650,
+    "effort": 33,
+    "cost": 1650
+  }
+]

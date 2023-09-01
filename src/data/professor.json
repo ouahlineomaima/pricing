@@ -1,0 +1,170 @@
+[
+  {
+    "functionnality": "Sign in / Sign out",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 3,
+    "cost": 150
+  },
+  {
+    "functionnality": "Consult the dashboard (profile + ads)",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 4,
+    "cost": 200
+  },
+  {
+    "functionnality": "Consult your account (general information, profile picture, password, notification etc.)",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 2,
+    "cost": 100
+  },
+  {
+    "functionnality": "Manage your account (modify general information)",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 1,
+    "cost": 50
+  },
+  {
+    "functionnality": "Create an ad",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 10,
+    "cost": 500
+  },
+  {
+    "functionnality": "View my ads",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 3,
+    "cost": 150
+  },
+  {
+    "functionnality": "Manage an ad (CRUD)",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 4,
+    "cost": 200
+  },
+  {
+    "functionnality": "Check balance",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 4,
+    "cost": 200
+  },
+  {
+    "functionnality": "Consult calendar",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 10,
+    "cost": 500
+  },
+  {
+    "functionnality": "Schedule a session (online outside the platform or face to face)",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 6,
+    "cost": 300
+  },
+  {
+    "functionnality": "Specify availability",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 6,
+    "cost": 300
+  },
+  {
+    "functionnality": "Consult the chat (teacher student)",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 8,
+    "cost": 400
+  },
+  {
+    "functionnality": "Consult the dashboard (profile + ads + chat)",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 6,
+    "cost": 300
+  },
+  {
+    "functionnality": "View your ad evaluations",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 4,
+    "cost": 200
+  },
+  {
+    "functionnality": "View your ad reviews",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 4,
+    "cost": 200
+  },
+  {
+    "functionnality": "Make an ad invisible",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 4,
+    "cost": 200
+  },
+  {
+    "functionnality": "Balance granting method",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 5,
+    "cost": 250
+  },
+  {
+    "functionnality": "Schedule a session (online inside the platform or face to face)",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 20,
+    "cost": 1000
+  },
+  {
+    "functionnality": "Associate your account with a student account",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 5,
+    "cost": 250
+  },
+  {
+    "functionnality": "View your signals",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 4,
+    "cost": 200
+  },
+  {
+    "functionnality": "Total (MAD)",
+    "basic": 2650,
+    "pro": 3750,
+    "premium": 5650,
+    "effort": 113,
+    "cost": 5650
+  }
+]

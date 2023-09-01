@@ -5,24 +5,28 @@
     max-width: 1280px;
     height: 100vh;
     width: auto;
+    margin-bottom: 3rem;
   }  
 
   .card {
     width: 24vw;
     height: auto;
-    min-height: 70vh;
+    min-height: 40vh;
     border: 0.1px solid #ccc;
     border-radius: 6px;
     transition: transform 0.3s ease-in-out;          
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #0f0c29;
+    background-color: #fff;
+/*     background-color: #0f0c29; */
   }
   
   .premium {
     z-index: 2;
     transform: scale(1);
+    background-color: #0f0c29;  
+    /* background-color: #fff;  */
     box-shadow:0 0 10px #0f0c29,
               inset 0 0 10px #0f0c29 ;
 
@@ -32,6 +36,8 @@
     z-index: 1;
     transform: scale(0.95);
     opacity: 0.7;
+    box-shadow:0 0 10px #0f0c29,
+              inset 0 0 10px #0f0c29 ;
 
   }
   
@@ -39,6 +45,8 @@
     z-index: 0;
     transform: scale(0.9);
     opacity: 0.5;
+    box-shadow:0 0 10px #0f0c29,
+              inset 0 0 10px #0f0c29 ;
   }
   
   .card:hover {
@@ -47,30 +55,52 @@
   
   .header {
     width: 100%;
-    height: 30%;
-    border: 1px solid white;
-    border-radius: 6px 6px 0 0;
+    height: 25%;
     border: none;
   }
+  
   .header h4{
-    color: #888;
+    color: #0f0c29;
+/*     color: #888; */
     font-family: 'Noto Sans Georgian';
     font-weight: 400;
   }
   
   .header h2{
-    color: #d2d0d0;
+    color: #0f0c29;
+/*     color: #d2d0d0 ; */
     font-family: 'Montserrat';
     font-weight: 500;
   }
+
+  .headerpremium h4{
+    color: #888;
+  }
+
+  .headerpremium h2{
+    color: #d2d0d0;
+  }
+
+ /*  .headerpremium h4{
+    color: #0f0c29;
+  }
+
+  .headerpremium h2{
+    color: #0f0c29;
+  } */
   
   .separator {
     width: 80%;
     height: 2px;
-    background-color: #ccc; 
+    /* background-color: #1b1b1b;  */
+    background-color: #fff;
     border-radius: 6px;
     box-shadow:0 0 5px #4136a4a2;
     
+  }
+
+  .separatorpremium{
+    background-color: #fff;
   }
   
   .card-body {
@@ -79,9 +109,6 @@
     margin-top: 0.3rem;
   }
   
-  .card-body .validate{
-    color: #888;
-  }
   
   ul{
     list-style: none;
@@ -99,6 +126,16 @@
     margin-block-start: 0;
     margin-block-end: 0;
     padding-left: 5px;
+    color: #0f0c29;
+    /* color: #888; */
   }
+  
+.lipremium h5{
+  color: #fff;
+}
+
+/* .lipremium h5{
+  color: #0f0c29;
+}  */
   
   

@@ -1,0 +1,116 @@
+[
+  {
+    "feature": "High fidelity Figma prototype (Basic)",
+    "basic": "TRUE",
+    "pro": "FALSE",
+    "premium": "FALSE",
+    "effort": 15,
+    "cost": 750
+  },
+  {
+    "feature": "High fidelity Figma prototype (Pro)",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "FALSE",
+    "effort": 20,
+    "cost": 1000
+  },
+  {
+    "feature": "High fidelity Figma prototype (Premium)",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 25,
+    "cost": 1250
+  },
+  {
+    "feature": "Brand creation",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 8,
+    "cost": 400
+  },
+  {
+    "feature": "Responsive design",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 10,
+    "cost": 500
+  },
+  {
+    "feature": "Dark and light mode",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 6,
+    "cost": 300
+  },
+  {
+    "feature": "Enable premium account for professors",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 6,
+    "cost": 300
+  },
+  {
+    "feature": "3 months of maintenance (for intern bugs)",
+    "basic": "TRUE",
+    "pro": "FALSE",
+    "premium": "FALSE",
+    "effort": 6,
+    "cost": 300
+  },
+  {
+    "feature": "6 months of maintenance (for intern bugs)",
+    "basic": "FALSE",
+    "pro": "TRUE",
+    "premium": "FALSE",
+    "effort": 12,
+    "cost": 600
+  },
+  {
+    "feature": "1 year of maintenance (for intern bugs)",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 24,
+    "cost": 1200
+  },
+  {
+    "feature": "Privacy policy",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 8,
+    "cost": 400
+  },
+  
+  {
+    "feature": "FAQ section",
+    "basic": "TRUE",
+    "pro": "TRUE",
+    "premium": "TRUE",
+    "effort": 15,
+    "cost": 750
+  },
+  
+  {
+    "feature": "Access to source code",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 6,
+    "cost": 300
+  },
+  {
+    "feature": "Total (MAD)",
+    "basic": 3100,
+    "pro": 4250,
+    "premium": 5400,
+    "effort": 161,
+    "cost": 8050
+  }
+]
