@@ -59,7 +59,7 @@ function App() {
 
   return (
     <>
-      <h2>Pricing Plans</h2>
+      <h2>Development Packs</h2>
       <Cards cards={cards} />
       <Table data={NORMAL_USER} title='Normal user allowed functionalities' />
       <Table data={STUDENT} title='Student account functionalities' />
