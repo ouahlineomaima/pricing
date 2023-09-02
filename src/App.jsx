@@ -18,7 +18,7 @@ import { Table } from './Table';
 function App() {
   const premiumCard = {
     title: 'Premium',
-    price: '17,500 MAD',
+    price: '18,900 MAD',
     features: [
       { text: 'Premium Normal user functionalities', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
       { text: 'Premium Student account functionalities', icon: <IoMdCheckmarkCircleOutline color='#d2d0d0' /> },
@@ -31,7 +31,7 @@ function App() {
 
   const proCard = {
     title: 'Pro',
-    price: '12,850 MAD',
+    price: '13,250 MAD',
     features: [
       { text: 'Pro Normal user functionalities', icon: <IoMdCheckmarkCircleOutline color='#0f0c29' /> },
       { text: 'Pro Student account functionalities', icon: <IoMdCheckmarkCircleOutline color='#0f0c29' /> },
@@ -44,7 +44,7 @@ function App() {
 
   const basicCard = {
     title: 'Basic',
-    price: '8,750 MAD',
+    price: '8,950 MAD',
     features: [
       { text: 'Basic Normal user functionalities', icon: <IoMdCheckmarkCircleOutline color='#0f0c29' /> },
       { text: 'Basic Student account functionalities', icon: <IoMdCheckmarkCircleOutline color='#0f0c29' /> },
