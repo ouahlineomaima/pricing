@@ -56,12 +56,12 @@
     "cost": 200
   },
   {
-    "functionnality": "Check balance",
+    "functionnality": "Check balance by duration",
     "basic": "TRUE",
     "pro": "TRUE",
     "premium": "TRUE",
-    "effort": 4,
-    "cost": 200
+    "effort": 8,
+    "cost": 400
   },
   {
     "functionnality": "Consult calendar",
@@ -102,6 +102,14 @@
     "premium": "TRUE",
     "effort": 6,
     "cost": 300
+  },
+  {
+    "functionnality": "Notification section",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 10,
+    "cost": 500
   },
   {
     "functionnality": "View your ad evaluations",

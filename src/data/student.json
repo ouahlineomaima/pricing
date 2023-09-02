@@ -88,6 +88,14 @@
     "cost": 400
   },
   {
+    "functionnality": "Notification section",
+    "basic": "FALSE",
+    "pro": "FALSE",
+    "premium": "TRUE",
+    "effort": 10,
+    "cost": 500
+  },
+  {
     "functionnality": "Add a review to an ad",
     "basic": "FALSE",
     "pro": "TRUE",

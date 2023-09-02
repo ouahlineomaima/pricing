@@ -32,12 +32,12 @@
     "cost": 150
   },
   {
-    "functionnality": "Choose the search criteria (price, level)",
+    "functionnality": "Choose the search criteria (price, level, rating)",
     "basic": "FALSE",
     "pro": "TRUE",
     "premium": "TRUE",
-    "effort": 5,
-    "cost": 250
+    "effort": 9,
+    "cost": 450
   },
   {
     "functionnality": "Total (MAD)",
